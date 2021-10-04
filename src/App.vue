@@ -3,6 +3,7 @@
   <h1>第二个项目测试</h1>
   <h2>服务器测试!!!</h2>
   <h2>服务器测试!!!</h2>
+  <h2>服务器测试!!!</h2>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
