@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <h1>第二个项目测试</h1>
+  <h2>本地测试!!!</h2>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
