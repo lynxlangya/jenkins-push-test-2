@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <h2>脚本构建测试成功!!!</h2>
-  <h1 style="color: red">SUCCESS!!!</h1>
+  <h1 style="color: green">8010</h1>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
